@@ -9,9 +9,9 @@ __Ouput:__ duas tabelas com os dados, para xls ou Google Sheet. Primeira tabela 
 
 ## Proxy
 
-Para usar servidor proxy, executar o notebook localmente, ou seja, baixar o notebookna sua máquina, fora do COLAB.
+Para usar servidor proxy precisa executar o notebook localmente, ou seja, baixar o notebook na sua máquina em ambinte Python com as bibliotecas instaladas. (recomendo [Winpython](https://winpython.github.io/)
 
-Único serviço de proxy que funcionou foi o Scraper API. Cadastro é gratuito, com limite de 1000 acessos ao mês por conta. Esse limite parece fictício.
+Único serviço de proxy que funcionou foi o [Scraper API](https://www.scraperapi.com/). Cadastro é gratuito, com limite de 1000 acessos ao mês por conta. Esse limite parece fictício.
 A classe ScraperAPI já está incluída na parte de funções no notebook.
 
 Basta adicionar o código abaixo no notebook antes de fazer qualquer raspagem.
