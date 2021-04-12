@@ -11,9 +11,9 @@ __Ouput:__ duas tabelas com os dados, para xls ou Google Sheet. Primeira tabela 
 Para usar servidor proxy, executar o notebook localmente, ou seja, baixar o notebookna sua máquina, fora do COLAB.
 
 Único serviço de proxy que funcionou foi o Scraper API. Cadastro é gratuito, com limite de 1000 acessos ao mês por conta. Esse limite parece fictício.
-A classe ara rodar o Screper já está incluída na parte de funções no notebook.
+A classe ScraperAPI já está incluída na parte de funções no notebook.
 Basta adicionar o código abaixo no notebook antes de fazer qualquer raspagem.
-Lembre-se de pegar o token no Site do Scraper Api e substituir na 2ª linha deste código.
+Lembre-se de pegar o token no Site do Scraper API e substituir na 2ª linha deste código.
 
 ```python
 pg = ProxyGenerator()
