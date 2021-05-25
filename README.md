@@ -1,6 +1,6 @@
-# Raspagem de dados G Scholar
+# Raspagem de dados Google Scholar
 
-Jupyter Notebook com passo a passo para raspagem de dados do Google Scholar.
+Jupyter Notebook com passo a passo para raspagem de dados (Web Scraping) do Google Scholar.
 
 
 __Input:__ lista de nomes dos pesquisadores, em arquivo formato xls(Excel) ou planilha do Google Sheet.
